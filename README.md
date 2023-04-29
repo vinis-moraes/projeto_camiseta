@@ -10,4 +10,4 @@ Versão atual:
 
 __**Alguns elementos podem não corresponder com a realidade, por isso peço a colaboração de todos com o envio de imagens e sugestões.**__
 
-Clique [aqui enviar sugestões](https://). Você será redirecionado para um formulário
+Clique [aqui enviar sugestões](https://forms.gle/YaNrParajXheVwvp7). Você será redirecionado para um formulário
