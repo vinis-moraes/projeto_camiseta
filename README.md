@@ -9,3 +9,5 @@ Versão atual:
 ![Imagem Costas](Costas_01.png)
 
 __**Alguns elementos podem não corresponder com a realidade, por isso peço a colaboração de todos com o envio de imagens e sugestões.**__
+
+Clique [aqui enviar sugestões](https://). Você será redirecionado para um formulário
