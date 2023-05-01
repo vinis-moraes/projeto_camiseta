@@ -4,7 +4,7 @@ Esse repositório será utilizado para armazenar e organizar as atualizações d
 
 Versão atual:
 
-![Imagem Frente](Frente_04.png)
+![Imagem Frente](Frente.svg)
 
 ![Imagem Costas](Costas_01.png)
 
