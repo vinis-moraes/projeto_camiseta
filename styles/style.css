@@ -43,4 +43,5 @@ footer {
 
 img{
     width: 33vw;
+    min-width: 330px;
   }
