@@ -4,9 +4,9 @@ Esse repositório será utilizado para armazenar e organizar as atualizações d
 
 Versão atual:
 
-![Imagem Frente](Frente_06.png)
+![Imagem Frente](Frente_Bolhas_Derretidas_Colorido.png)
 
-![Imagem Costas](Costas_01.png)
+![Imagem Costas](Costas_Colorido.png)
 
 __**Alguns elementos podem não corresponder com a realidade, por isso peço a colaboração de todos com o envio de imagens e sugestões.**__
 
